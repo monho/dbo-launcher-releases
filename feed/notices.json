@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "id": "launcher-notice-1",
+      "category": "notice",
+      "title": "런처 공지 기능 테스트",
+      "body": "이 공지는 GitHub 저장소 monho/dbo-launcher-releases 의 feed/notices.json 파일에서 불러옵니다.\n파일을 수정하면 몇 분 안에 런처에 반영됩니다.",
+      "publishedAt": "2026-11-26T09:00:00Z"
+    }
+  ]
+}
