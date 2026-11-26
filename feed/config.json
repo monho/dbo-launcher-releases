@@ -1,0 +1,6 @@
+{
+  "profiles": ["dbo-main"],
+  "manifestChannel": "stable",
+  "minLauncherVersion": "0.1.0",
+  "maintenance": { "active": false, "message": null }
+}
